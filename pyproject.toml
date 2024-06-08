@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "sdcclient"
+name = "dicclient"
 version = "0.0.0" # Updated by poetry-dynamic-versioning
 description = "Python client for Diginfra Platform"
 authors = ["KhulnaSoft Ltd. <info@khulnasoft.com>"]
